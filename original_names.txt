@@ -1,0 +1,77 @@
+abbigliamento adulti
+abbigliamento bambini
+arredamento
+auto
+bagno
+balcone
+banca
+bar
+bazar
+casa
+centro commerciale
+centro scommesse
+centro tatuaggi
+chiesa
+cinema
+controllo medico
+copisteria
+corridoio
+cucina
+discoteca
+doccia
+elettrodomestici
+farmacia
+ferramenta
+fotografia
+fruttivendolo
+giardino
+letto
+macelleria
+noleggio auto
+ortopedia
+ospedale
+parco acquatico
+parco divertimenti
+parco
+parrucchiere
+pescheria
+pompe funebri
+profumeria
+ristorante
+salone
+salumeria
+supermercato
+terrazza
+ufficio postale
+usato
+vasca
+zoo
+acqua
+ananas
+arancia
+aranciata
+caffe
+cappuccino
+cioccolata
+cola
+gazzosa
+latte
+mela
+albicocca
+anguria
+biscotto
+budino
+ciambella
+cioccolatini
+cioccolato
+coscia
+kiwi
+more
+pancetta
+patatine fritte
+pesca
+prosciutto
+prugne
+salsiccia stagionata
+salsiccia
+tramezzino
